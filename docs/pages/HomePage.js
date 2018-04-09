@@ -14,8 +14,8 @@ class HomePage extends React.Component {
           <Row>
             <Col md="10" className="mx-auto float-none white z-depth-1 py-2 px-2">
               <CardBody>
-                <h2 className="h2-responsive"><strong>MDB React</strong></h2>
-                <p className="pb-4">React Bootstrap with Material Design</p>
+                <h2 className="h2-responsive"><strong>Music App</strong></h2>
+                <p className="pb-4">Reactified Music App!</p>
               </CardBody>
             </Col>
           </Row>
@@ -23,11 +23,11 @@ class HomePage extends React.Component {
         <Container>
           <Row>
             <Col md="10" className="mx-auto mt-4">
-              <p className="text-center">Google has designed a Material Design to make the web more beautiful and more user-friendly.</p>
-              <p className="text-center">Twitter has created a Bootstrap to support you in faster and easier development of responsive and effective websites.</p>
-              <p className="text-center">We present you a framework containing the best features of both of them - Material Design for Bootstrap.</p>
+              <p className="text-center">A music media player visually appealing and more user-friendly.</p>
+              <p className="text-center">Harnessing the youtube api to support your musical taste in a responsive and dynamic way.</p>
+              <p className="text-center">We present you a framework containing the best features of bootstrap woven with react - please enjoy.</p>
               <hr/>
-              <h3 className="text-center mb-3">See it in action</h3>
+              <h3 className="text-center mb-3">See it in action!</h3>
               <Row>
                 <Col md="4" className="text-center home-feature-box">
                   <NavLink to="/css">
