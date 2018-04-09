@@ -24,13 +24,13 @@ class App extends Component {
                   <NavLink className="nav-link" to="/">Home</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to="/css">CSS</NavLink>
+                  <NavLink className="nav-link" to="/css">Music Search!</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to="/components">Components</NavLink>
+                  <NavLink className="nav-link" to="/components">Bookmark!</NavLink>
                 </NavItem>
                 <NavItem>
-                  <NavLink className="nav-link" to="/javascript">JavaScript</NavLink>
+                  <NavLink className="nav-link" to="/javascript">Profile!</NavLink>
                 </NavItem>
               </NavbarNav>
 
@@ -42,7 +42,7 @@ class App extends Component {
           </main>
           <Footer color="indigo">
             <p className="footer-copyright mb-0">
-              &copy; {(new Date().getFullYear())} Copyright: <a href="https://www.MDBootstrap.com"> MDBootstrap.com </a>
+              &copy; {(new Date().getFullYear())} <a> John Kim & Jared Barnum</a>
             </p>
           </Footer>
         </div>
