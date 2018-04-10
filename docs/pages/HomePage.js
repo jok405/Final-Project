@@ -31,20 +31,20 @@ class HomePage extends React.Component {
               <Row>
                 <Col md="4" className="text-center home-feature-box">
                   <NavLink to="/css">
-                    <Fa icon="css3" className="pink-text" />
-                    <span>CSS</span>
+                    <Fa icon="fas fa-user" className="pink-text" />
+                    <span>Profile</span>
                   </NavLink>
                 </Col>
                 <Col md="4" className="text-center home-feature-box">
                   <NavLink to="/components">
-                    <Fa icon="cubes" className="blue-text" />
-                    <span>Components</span>
+                    <Fa icon="fab fa-youtube" className="red-text" />
+                    <span>Youtube Music Search</span>
                   </NavLink>
                 </Col>
                 <Col md="4" className="text-center home-feature-box">
                   <NavLink to="/javascript">
-                    <Fa icon="code" className="green-text" />
-                    <span>JavaScript</span>
+                    <Fa icon="fas fa-bookmark" className="green-text" />
+                    <span>Bookmarked Library</span>
                   </NavLink>
                 </Col>
               </Row>

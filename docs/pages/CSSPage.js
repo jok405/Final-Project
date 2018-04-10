@@ -9,7 +9,7 @@ class CSSPage extends React.Component {
         <Row>
           <Col md="8" className="mx-auto">
             <Jumbotron className="mt-3">
-              <h1><Fa icon="css3" className="grey-text" /> CSS</h1>
+              <h1><Fa icon="fas fa-search"/> Powered by <Fa icon="fab fa-youtube" className="grey-text" /> !</h1>
               <ul className="list-unstyled example-components-list">
                 <li>
                   <NavLink to="/css/table">Table <Fa icon="angle-right" /></NavLink>

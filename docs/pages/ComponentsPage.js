@@ -10,7 +10,7 @@ class ComponentsPage extends React.Component {
         <Row>
           <Col md="8" className="mt-3 mx-auto">
             <Jumbotron>
-              <h1><Fa icon="cubes" className="grey-text" /> Components</h1>
+              <h1><Fa icon="fas fa-bookmark " className="grey-text" />  Components</h1>
               <ul className="list-unstyled example-components-list">
                 <li>
                   <NavLink to="/components/alert">Alert <Fa icon="angle-right" /></NavLink>

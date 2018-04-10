@@ -9,10 +9,10 @@ class JavaScriptPage extends React.Component {
         <Row>
           <Col md="8" className="mt-3 mx-auto">
             <Jumbotron>
-              <h1><Fa icon="code" className="grey-text" /> JavaScript</h1>
+              <h1><Fa icon="fas fa-user" className="grey-text" /> User Profile!</h1>
               <ul className="list-unstyled example-components-list">
                 <li>
-                  <NavLink to="/javascript/modal">Modal <Fa icon="angle-right" /></NavLink>
+                  <NavLink to="/javascript/modal">Bookmarked Cards <Fa icon="fas fa-history" /></NavLink>
                 </li>
                 <li>
                   <NavLink to="/javascript/collapse">Collapse <Fa icon="angle-right" /></NavLink>

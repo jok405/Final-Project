@@ -23,6 +23,14 @@ const FaPage = (props) => {
         <p><Fa icon="refresh" size="5x" spin fixed/></p>
         <p><Fa icon="camera-retro" size="5x" rotate="90"/></p>
         <p><Fa icon="camera-retro" size="5x" flip="vertical"/></p>
+        <p><Fa icon="fab fa-youtube"/></p>
+
+        <p><Fa icon="fas fa-bookmark" /></p>
+        <p><Fa icon="fas fa-user" /></p>
+        <p><Fa icon="fas fa-search" /></p>
+        <p><Fa icon="fas fa-history" /></p>
+
+
       </div>
     </div>
   );
