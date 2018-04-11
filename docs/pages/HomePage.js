@@ -31,7 +31,7 @@ class HomePage extends React.Component {
               <Row>
                 <Col md="4" className="text-center home-feature-box">
                   <NavLink to="/css">
-                    <Fa icon="fas fa-user" className="pink-text" />
+                    <Fa icon="css3" className="pink-text" />
                     <span>Profile</span>
                   </NavLink>
                 </Col>

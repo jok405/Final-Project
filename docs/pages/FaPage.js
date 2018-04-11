@@ -29,6 +29,7 @@ const FaPage = (props) => {
         <p><Fa icon="fas fa-user" /></p>
         <p><Fa icon="fas fa-search" /></p>
         <p><Fa icon="fas fa-history" /></p>
+        <p><Fa icon="fab fa-facebook" /></p>
 
 
       </div>
